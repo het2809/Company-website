@@ -1,0 +1,1003 @@
+@media (max-width: 84em) {
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+
+  .menu-logo-1 {
+    display: none;
+  }
+
+  .heading-primary {
+    font-size: 36px;
+  }
+  .information-description {
+    font-size: 19px;
+  }
+  .portfolio-arrow-2 {
+    left: 82%;
+  }
+  .rectangle {
+    left: 2%;
+    height: 89%;
+    width: 100%;
+  }
+
+  .technology-line {
+    left: 26%;
+  }
+  .technology-blue-line {
+    left: 25.9%;
+  }
+  .technology-stars {
+    bottom: -19%;
+  }
+  .client {
+    padding-right: 0;
+  }
+  .client-line {
+    bottom: 26%;
+    right: 1%;
+  }
+  .client {
+    padding-right: 32px;
+  }
+}
+.company-service-cols {
+  grid-template-columns: 1fr 1fr;
+}
+.company-service-detail {
+  font-size: 10px;
+}
+
+@media (max-width: 75em) {
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  .whatsapp-img {
+    width: 85%;
+  }
+  .whatsapp-heading {
+    font-size: 35px;
+  }
+  .whatsapp-heading-text {
+    font-size: 15px;
+  }
+  .ceo-arrow {
+    bottom: -7%;
+    left: 13%;
+  }
+  .whatsapp-btn {
+    height: 48px;
+  }
+  .menu-logo {
+    display: none;
+  }
+
+  .company-logo {
+    height: 9.6%;
+    width: 60%;
+  }
+  .Navigation-link {
+    font-size: 9px;
+  }
+  .contact-us-logo {
+    height: 10%;
+    width: 90%;
+  }
+  .heading-primary {
+    font-size: 22px;
+  }
+  .information-description {
+    font-size: 12px;
+  }
+  .arrow {
+    left: 42%;
+  }
+  .about-us-image {
+    width: 92%;
+  }
+  .about-us-image-1 {
+    width: 92%;
+  }
+  .about-us-description-1 {
+    font-size: 15px;
+  }
+  .about-us-description-2 {
+    font-size: 15px;
+  }
+  .about-us-description-3 {
+    font-size: 15px;
+  }
+  .about-us-description-2 {
+    margin-top: 2.4rem;
+  }
+  .read-more {
+    height: 10%;
+    width: 30%;
+  }
+  .service-heading {
+    font-size: 20px;
+  }
+  .service-text {
+    font-size: 13px;
+  }
+  .round-ring {
+    left: 2%;
+  }
+  .double-arrow {
+    top: 29%;
+    left: 79%;
+  }
+  .portfolio-arrow-2 {
+    left: 80%;
+  }
+  .rectangle {
+    height: 89%;
+    width: 100%;
+  }
+  .clients {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .line-1 {
+    height: 50%;
+    left: 37%;
+  }
+  .line-2 {
+    right: 38%;
+    height: 50%;
+  }
+  .line-3 {
+    right: 15%;
+    height: 50%;
+  }
+  .client-line {
+    display: none;
+  }
+  .client-testimonials-text {
+    font-size: 27px;
+  }
+  .Testimonials-image {
+    width: 100%;
+  }
+
+  .company-service-cols {
+    grid-template-columns: 0.3fr 0.9fr;
+  }
+  .company-service-detail {
+    font-size: 7px;
+  }
+  .company-service-line {
+    margin-left: 0;
+  }
+  .footer-column {
+    gap: 0;
+  }
+  .section-portfolio {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 64em) {
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  .menu-logo {
+    display: none;
+  }
+
+  .header {
+    padding: 1.2rem;
+  }
+  .Navigation-link {
+    font-size: 11px;
+  }
+  .Navigation-list {
+    height: 5.5rem;
+  }
+
+  .information {
+    padding: 0 2.4rem;
+  }
+  .heading-primary {
+    font-size: 30px;
+  }
+  .arrow {
+    left: 44%;
+    top: 10%;
+  }
+  .information-description {
+    font-size: 16px;
+  }
+  .container {
+    padding: 2.6rem 3.2rem;
+  }
+  .section-about-us {
+    padding: 0;
+  }
+  .kaju {
+    right: 52%;
+    top: 4%;
+  }
+  .about-us-description-2,
+  .about-us-description-1,
+  .about-us-description-3 {
+    margin-left: 0;
+  }
+  .read-more {
+    width: 25%;
+  }
+  .service:nth-last-child(3) {
+    display: none;
+  }
+  .grid--3-cols {
+    grid-template-columns: 1fr 1fr;
+    gap: 1.8rem;
+  }
+  .double-arrow {
+    top: 40%;
+    left: 87%;
+  }
+  .stars {
+    top: 34%;
+    right: 24%;
+  }
+  .round-ring {
+    display: none;
+  }
+  .portfolio-background {
+    display: none;
+  }
+  .portfolio-arrow-1 {
+    left: 34.5%;
+    top: 14%;
+  }
+  .portfolio-arrow-2 {
+    left: 87.5%;
+    top: 15%;
+  }
+  .frontend-details {
+    grid-template-columns: 1fr 1fr;
+  }
+  .rectangle {
+    width: 96%;
+  }
+  .technology-stars {
+    display: none;
+  }
+  .line-1 {
+    height: 65%;
+    left: 35%;
+  }
+  .line-2 {
+    right: 35%;
+    height: 65%;
+  }
+  .line-3 {
+    right: 10%;
+    height: 65%;
+  }
+
+  .whatsapp-half-circle-1 {
+    display: none;
+  }
+  .whatsapp-half-circle-2 {
+    display: none;
+  }
+  .light-round {
+    display: none;
+  }
+  .double-coma {
+    top: 40%;
+  }
+  .ceo-arrow {
+    bottom: 0%;
+    left: 5%;
+  }
+}
+@media (max-width: 49em) {
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  .Navigation-link {
+    font-size: 8px;
+  }
+  .company-logo {
+    width: 82%;
+  }
+  .heading-primary {
+    font-size: 22px;
+    line-height: 25px;
+  }
+  .menu-logo {
+    display: none;
+  }
+
+  .whatsapp-cols {
+    grid-template-columns: 1fr;
+  }
+  .whatsapp-img {
+    width: 50%;
+    margin-left: 20%;
+  }
+  .whatsapp-text {
+    margin-left: 14%;
+    margin-top: 2.4rem;
+  }
+  .arrow {
+    top: 1%;
+    width: 10%;
+  }
+  .information-img {
+    width: 250px;
+    padding-right: 4.5rem;
+  }
+  .information-description {
+    font-size: 12px;
+    line-height: 25px;
+  }
+
+  .sparkle {
+    width: 9%;
+    left: 43%;
+    bottom: -20%;
+  }
+
+  .apply-text {
+    top: 4%;
+    left: 87%;
+  }
+  .hiring-logo {
+    left: 89%;
+    top: 8%;
+    width: 10%;
+  }
+
+  .app-logos {
+    margin-top: 5.4rem;
+  }
+  .about-us-description-1 {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  .about-us-description-2 {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  .about-us-description-3 {
+    font-size: 10px;
+    line-height: 20px;
+    margin-top: 1rem;
+  }
+  .kaju {
+    width: 7%;
+  }
+  .read-more {
+    width: 42%;
+  }
+  .heading-tertiary {
+    font-size: 45px;
+  }
+  .heading {
+    font-size: 45px;
+  }
+  .heading-text {
+    font-size: 15px;
+    margin-bottom: 0;
+  }
+  .stars {
+    top: 15%;
+    right: 26%;
+  }
+  .double-arrow {
+    top: 20%;
+    left: 82%;
+  }
+  .section-portfolio {
+    margin-top: 0;
+    margin-bottom: 1.4rem;
+  }
+  .container {
+    padding: 0.6rem 3.2rem;
+  }
+  .section-portfolio-heading {
+    font-size: 45px;
+  }
+  .portfolio-text {
+    font-size: 15px;
+  }
+  .portfolio-arrow-2 {
+    left: 84.5%;
+    top: 14%;
+  }
+  .technology-heading {
+    font-size: 45px;
+  }
+  .reactjs-sub-text {
+    font-size: 10px;
+  }
+  .reactjs-heading {
+    font-size: 15px;
+  }
+  .rectangle {
+    width: 98%;
+  }
+  .technology-line {
+    left: 33%;
+  }
+  .technology-blue-line {
+    left: 32.9%;
+  }
+  .section-technology {
+    margin-bottom: 5.4rem;
+  }
+  .client-heading {
+    font-size: 45px;
+    padding-top: 0;
+  }
+  .our-client-sub-text {
+    font-size: 15px;
+    margin-bottom: 2.4rem;
+  }
+  .client {
+    width: 75%;
+  }
+  .section-our-client {
+    margin-bottom: 3.2rem;
+  }
+  .client-testimonials-heading {
+    font-size: 45px;
+  }
+  .client-testimonials-sub-heading {
+    font-size: 15px;
+  }
+  .client-testimonials-text {
+    font-size: 21px;
+    margin-top: 5.4rem;
+  }
+  .Testimonials-image {
+    margin-top: 3.4rem;
+    width: 140%;
+  }
+  .client-testimonials-img {
+    margin-top: 0;
+  }
+  .double-coma {
+    top: 24%;
+  }
+  .ceo-logo {
+    width: 50px;
+    height: 50px;
+  }
+  .ceo-name {
+    font-size: 15px;
+  }
+  .ceo-position {
+    font-size: 13px;
+  }
+  .ceo-arrow {
+    top: 100%;
+    left: 7%;
+    width: 7%;
+  }
+  .section-client-testimonials {
+    margin-bottom: 5.2rem;
+  }
+  .company-technology-line {
+    padding-left: 1.2rem;
+  }
+  .company-technology-heading {
+    padding-left: 1.2rem;
+  }
+  .footer-column {
+    grid-template-columns: 340px 154px 118px;
+  }
+  .company-service-cols {
+    grid-template-columns: 120px 105px;
+  }
+  .company-technology-details {
+    padding-left: 1.2rem;
+  }
+}
+
+@media (max-width: 27em) {
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  .Navigation-list {
+    display: none;
+  }
+  .menu-logo-1 {
+    display: flex;
+    justify-content: space-between;
+  }
+  .company-logo {
+    width: 55%;
+  }
+  .arrow {
+    display: none;
+  }
+  .information {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  .heading-primary {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .information-description {
+    font-size: 15px;
+  }
+  .consult {
+    padding: 0;
+  }
+  .consult-logo img {
+    margin-top: 0;
+    width: 40%;
+  }
+  .information-img {
+    width: 90%;
+
+    margin-top: 1.2rem;
+  }
+  .apply-text {
+    top: 47%;
+    left: 65%;
+  }
+  .hiring-logo {
+    left: 71%;
+    top: 52%;
+  }
+  .sparkle {
+    bottom: 47%;
+  }
+  .app-logos {
+    gap: 2.2rem;
+  }
+  .container {
+    padding: 0.6rem 0.6rem;
+  }
+  .grid--2-cols {
+    grid-template-columns: 1fr;
+  }
+  .kaju {
+    top: 94%;
+    left: 80%;
+    width: 16%;
+  }
+  .section-about-us {
+    margin-top: 2.4rem;
+  }
+  .about-us-description-1 {
+    font-size: 18px;
+    margin-bottom: 1rem;
+    line-height: 30px;
+  }
+  .about-us-description-2 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .about-us-description-3 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .read-more {
+    width: 35%;
+  }
+  .whatsapp-text {
+    margin-left: 0;
+  }
+  .whatsapp-img {
+    margin-left: 4rem;
+  }
+  .whatsapp-heading-text {
+    margin-left: 1.2rem;
+  }
+  .whatsapp-heading {
+    font-size: 29px;
+  }
+  .whatsapp-heading-text {
+    font-size: 12px;
+  }
+  .whatsapp-stars {
+    display: none;
+  }
+  .whatsapp-btn {
+    width: 244px;
+    font-size: 18px;
+    height: 45px;
+    margin-left: 4rem;
+  }
+  .whatsapp-heading {
+    margin-left: 1.2rem;
+  }
+  .service:nth-child(2) {
+    display: none;
+  }
+  .grid--3-cols {
+    grid-template-columns: 1fr;
+  }
+  .double-arrow {
+    left: 40%;
+    top: 95%;
+  }
+
+  .client-arrow {
+    padding-top: 1.2rem;
+  }
+  .stars {
+    display: none;
+  }
+  .portfolio-img-1 {
+    width: 100%;
+  }
+  .portfolio-arrow-1 {
+    left: 90.5%;
+    top: 6%;
+  }
+  .portfolio-img-2 {
+    width: 100%;
+  }
+  .portfolio-arrow-2 {
+    left: 89.5%;
+    top: 58%;
+  }
+  .portfolio-text {
+    margin-bottom: 1.2rem;
+  }
+  .about-us-image {
+    width: 93%;
+  }
+  .about-us-image-1 {
+    width: 92%;
+  }
+  .section-services {
+    margin-bottom: 3.2rem;
+  }
+  .frontend-details {
+    grid-template-columns: 1fr;
+  }
+  .technology-details {
+    grid-template-columns: 1fr;
+    margin-top: 2.4rem;
+  }
+  .technologies-deatils {
+    display: flex;
+  }
+  .technology-detail {
+    margin: 0.6rem;
+  }
+  .technology-line {
+    transform: rotate(90deg);
+    left: 50%;
+    top: -1%;
+  }
+  .technology-blue-line {
+    transform: rotate(90deg);
+    top: 18.8%;
+    left: 19%;
+  }
+  .frontend {
+    margin-bottom: 1.2rem;
+    margin-top: 1.2rem;
+    padding-top: 1.2rem;
+  }
+  .frontend-text {
+    font-size: 15px;
+  }
+  .technology-heading {
+    font-size: 30px;
+  }
+  .technology-text {
+    font-size: 21px;
+  }
+  .rectangle {
+    display: none;
+  }
+  .clients {
+    grid-template-columns: 1fr 1fr;
+  }
+  .line-1 {
+    height: 70%;
+    left: 55%;
+  }
+  .client {
+    width: 92%;
+  }
+  .line-3 {
+    display: none;
+  }
+  .line-2 {
+    transform: rotate(90deg);
+    top: 13%;
+    height: 90%;
+  }
+  .client-heading {
+    font-size: 30px;
+  }
+  .client-testimonials-cols {
+    grid-template-columns: 1fr;
+  }
+  .client-testimonials-text {
+    display: flex;
+    width: 330px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: var(--black, #143048);
+    font-size: 23px;
+    font-family: Bespoke Sans;
+    font-weight: 500;
+  }
+  .double-coma {
+    top: 11%;
+  }
+  .paper-plane {
+    display: none;
+  }
+  .ceo-arrow {
+    top: 47%;
+    left: 2%;
+    width: 15%;
+  }
+  .Testimonials-image {
+    width: 70%;
+  }
+  .footer-column {
+    grid-template-columns: 1fr;
+  }
+  .company-technology-line {
+    width: 26.2rem;
+  }
+  .company-services {
+    margin-top: 1.2rem;
+  }
+  .company-service-list {
+    display: none;
+  }
+  .company-technology {
+    margin-top: 0;
+  }
+  .company-details {
+    margin-left: 1.2rem;
+  }
+  .ceo-arrow {
+    top: 52%;
+    left: 1%;
+  }
+  .Testimonials-image {
+    width: 95%;
+  }
+  .company-technology-heading {
+    padding-left: 0;
+  }
+  .company-technology-details {
+    padding-left: 0;
+  }
+  .company-technology-line {
+    padding-left: 0;
+  }
+  .company-services-heading {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 24em) {
+  .sparkle {
+    bottom: -10%;
+  }
+  .whatsapp-img {
+    margin-left: 3rem;
+  }
+  .whatsapp-heading {
+    font-size: 25px;
+  }
+  .whatsapp-heading-text {
+    font-size: 10px;
+  }
+  .heading-tertiary {
+    font-size: 40px;
+  }
+  .about-us-description-1 {
+    font-size: 12px;
+  }
+  .about-us-image {
+    width: 80%;
+  }
+  .about-us-image-1 {
+    width: 80%;
+  }
+  .about-us-description-1 {
+  }
+  .about-us-description-2 {
+    display: flex;
+    width: 365px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: var(--gray, #506b82);
+    font-size: 16px;
+    font-family: Bespoke Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+  }
+  .about-us-description-3 {
+    display: flex;
+    width: 365px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: var(--gray, #506b82);
+    font-size: 16px;
+    font-family: Bespoke Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+  }
+  .portfolio-text {
+    display: flex;
+    width: 365px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: var(--gray, #506b82);
+    font-size: 16px;
+    font-family: Bespoke Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+  }
+  .double-coma {
+    top: 16%;
+  }
+  .ceo-arrow {
+    top: 57%;
+  }
+  .company-details {
+    margin-left: 0.1rem;
+  }
+  .apply-text {
+    top: 59%;
+  }
+  .hiring-logo {
+    top: 63%;
+  }
+}
+
+@media (max-width: 20em) {
+  .heading-primary {
+    font-size: 20px;
+  }
+  .information-description {
+    font-size: 11px;
+  }
+  .whatsapp-img {
+    margin-left: 0.8rem;
+  }
+  .whatsapp-heading {
+    font-size: 20px;
+  }
+  .whatsapp-heading-text {
+    font-size: 9.5px;
+    margin-left: 0;
+  }
+  .whatsapp-btn {
+    margin-left: 2rem;
+  }
+  .app-logos {
+    gap: 1rem;
+  }
+  .about-us-description-1 {
+    font-size: 11px;
+  }
+  .about-us-image {
+    width: 67%;
+  }
+  .about-us-image-1 {
+    width: 67%;
+  }
+  .about-us-description-2 {
+    width: 303px;
+    font-size: 12px;
+  }
+  .about-us-description-3 {
+    width: 303px;
+    font-size: 12px;
+  }
+  .heading-text {
+    display: flex;
+    width: 308px;
+    flex-direction: column;
+  }
+  .portfolio-text {
+    width: 295px;
+  }
+  .technology-heading {
+    font-size: 24px;
+  }
+  .technology-text {
+    font-size: 16px;
+  }
+  .technology-blue-line {
+    top: 18.3%;
+  }
+  .technology-line {
+    top: -2%;
+  }
+  .frontend-text {
+    font-size: 11px;
+  }
+  .reactjs-sub-text {
+    font-size: 9px;
+  }
+  .reactjs-heading {
+    font-size: 14px;
+  }
+  .client-arrow {
+    padding-bottom: 1.2rem;
+  }
+  .line-2 {
+    height: 96%;
+  }
+  .client-testimonials-heading {
+    font-size: 35px;
+  }
+  .double-coma {
+    top: 11%;
+  }
+  .ceo-arrow {
+    top: 57%;
+  }
+  .Testimonials-image {
+    width: 86%;
+  }
+  .codewinglet-text {
+    width: 290px;
+  }
+  .location-text {
+    width: 310px;
+    font-size: 15px;
+  }
+  .call-number {
+    font-size: 15px;
+  }
+  .email-id {
+    font-size: 15px;
+  }
+  .company-technology-heading {
+    padding-left: 0;
+  }
+  .company-technology-details {
+    padding-left: 0;
+  }
+  .company-technology-line {
+    padding-left: 0;
+  }
+  .company-services-heading {
+    margin-left: 0;
+  }
+  .testimonials-text {
+    width: 325px;
+  }
+}
