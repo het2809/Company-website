@@ -308,6 +308,9 @@
     bottom: 0%;
     left: 5%;
   }
+  .technology-details {
+    padding-left: 6.7%;
+  }
 }
 @media (max-width: 49em) {
   html,
